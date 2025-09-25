@@ -1,3 +1,10 @@
 # Python Training AI&DS_IV YEAR
-Day1-calculator using def,if else and while 
-Day2-simple chatbot
+This repository contains my Python and Data Structures in Python (DSA) programs from my college course. Here, I practice coding exercises, assignments, and small projects.
+
+Tools I Use
+I practice and run Python programs using the following IDEs/compilers provided by my college:
+| IDE / Compiler | Description                            | Link                                                        |
+| -------------- | -------------------------------------- | ----------------------------------------------------------- |
+| **Thonny**     | Beginner-friendly Python IDE           | [thonny.org](https://thonny.org/)                           |
+| **PyCharm**    | Advanced Python IDE                    | [jetbrains.com/pycharm](https://www.jetbrains.com/pycharm/) |
+| **VS Code**    | Lightweight editor with Python support | [code.visualstudio.com](https://code.visualstudio.com/)     |
