@@ -11,8 +11,8 @@ I practice and run Python programs using the following IDEs/compilers provided b
 
 
 Day 1-calculator if else and while  
-day 2-guess number
-      simple chatbot  
-day 3-passcode and guess number
-      bmi calculator
-      student dictionary  
+day 2-guess number,
+      simple chatbot. 
+day 3-passcode and guess number,
+      bmi calculator,
+      student dictionary. 
