@@ -10,9 +10,9 @@ I practice and run Python programs using the following IDEs/compilers provided b
 | **VS Code**    | Lightweight editor with Python support | [code.visualstudio.com](https://code.visualstudio.com/)     |
 
 
-Day 1-calculator if else and while 
+Day 1-calculator if else and while  
 day 2-guess number
-      simple chatbot
+      simple chatbot  
 day 3-passcode and guess number
       bmi calculator
-      student dictionary
+      student dictionary  
