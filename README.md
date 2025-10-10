@@ -47,3 +47,13 @@ I practice and run Python programs using the following IDEs and compilers provid
 
 🚗 **Day 7 – Car Details Web App**
 🚙 Displayed car and bike details using multiple inheritance in Streamlit.
+
+📁 **Day 8 – Bank Management System (File Handling)**
+💾 Created a console-based Bank Management System using Python file handling.
+📚 Implemented JSON storage to save, update, and delete account details.
+⚙️ Features include:
+   Add new account
+   View all accounts
+   Update existing details
+   Delete account safely
+   ✅ Focused on exception handling and persistent data management.
