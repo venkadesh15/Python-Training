@@ -58,6 +58,7 @@ I practice and run Python programs using the following IDEs and compilers provid
    Update existing details
    Delete account safely
    ✅ Focused on exception handling and persistent data management.
+   
 🏥 **Day 9 – Hospital Monitoring System (Multithreading & Streamlit Dashboard)**
     🩺 Sensor Data Reading – Continuously generates live vitals like heart rate, temperature, and oxygen.
     🧠 Doctor Notification System – Detects abnormal readings and triggers alerts in real-time.
