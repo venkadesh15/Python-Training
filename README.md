@@ -11,9 +11,10 @@ I practice and run Python programs using the following IDEs and compilers provid
 
 | 🧠 **IDE / Compiler** | 💡 **Description**                         | 🔗 **Link** |
 | --------------------- | ----------------------------------------- | ----------- |
-| 🪶 **Thonny**         | Beginner-friendly Python IDE              | [thonny.org](https://thonny.org/) |
-| 🧩 **PyCharm**        | Advanced Python IDE for professional use  | [jetbrains.com/pycharm](https://www.jetbrains.com/pycharm/) |
-| 💻 **VS Code**        | Lightweight editor with Python extensions | [code.visualstudio.com](https://code.visualstudio.com/) |
+| 🪶 **Thonny**         | Beginner-friendly Python IDE (libraries: `math`, `os`, `json`) | [thonny.org](https://thonny.org/) |
+| 🧩 **PyCharm**        | Advanced Python IDE for professional use (libraries: `pandas`, `numpy`, `matplotlib`) | [jetbrains.com/pycharm](https://www.jetbrains.com/pycharm/) |
+| 💻 **VS Code**        | Lightweight editor with Python extensions (libraries: `streamlit`, `threading`, `flask`, `altair`) | [code.visualstudio.com](https://code.visualstudio.com/) |
+|
 
 
 /------------------------------------------------------------------------------------------------------------------------------------------/
