@@ -93,32 +93,8 @@ Created a simple calculator using `if-else` and `while` loops.
 - **Data Logging** – Records recent health data for trend analysis.
 
 ---
+### 🧮 Day 10 – Python MySQL Student Management System
 
-## 🧮 SQL + Python Integration Project
-
-### 🎓 **Student Management System (Python + MySQL)**
-📘 A CRUD (Create, Read, Update, Delete) project built using **Python** and **MySQL Workbench**.
-
-#### 🧱 Features
-- Add new students  
-- View all students  
-- Update existing student details  
-- Delete one or all students  
-
-#### ⚙️ Files
-- `students.py` → Python CRUD program  
-- `students.sql` → SQL file for database and table creation  
-
-#### 💾 SQL Setup (included in `students.sql`)
-```sql
-CREATE DATABASE IF NOT EXISTS schooldb;
-USE schooldb;
-
-CREATE TABLE students (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    age INT NOT NULL,
-    average FLOAT NOT NULL,
-    grade VARCHAR(2) NOT NULL
-);
-
+💾 Built a CRUD-based student management system using **Python** and **MySQL Workbench**.  
+⚙️ Performed operations like add, view, update, and delete student records using `mysql.connector` and SQL queries.
+---
