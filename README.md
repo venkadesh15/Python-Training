@@ -1,65 +1,124 @@
-🐍 **Python Training – AI&DS (IV Year)** 
+# 🐍 Python Training – AI&DS (IV Year)
 
-This repository contains my **Python** and **Data Structures in Python (DSA)** programs from my college coursework.  
-Here, I practice **coding exercises, assignments, and small projects** as part of my learning journey.  
+This repository contains my **Python**, **Data Structures in Python (DSA)**, **Web Development**, and **SQL** programs from my college coursework.  
+Here, I practice **coding exercises, assignments, and small projects** as part of my learning journey in the **Artificial Intelligence & Data Science (AI&DS)** program.
 
-/------------------------------------------------------------------------------------------------------------------------------------------/
+---
 
-🧰 **Tools I Use**  
+## 🧭 Training Areas
 
-I practice and run Python programs using the following IDEs and compilers provided by my college:  
+| 🧩 Domain | 📘 Description |
+|------------|----------------|
+| 🐍 **Python Programming** | Core Python, OOP concepts, file handling, exception handling, and JSON operations. |
+| 🧠 **Data Structures & Algorithms (DSA)** | Implementation of lists, stacks, queues, linked lists, trees, sorting and searching algorithms using Python. |
+| 🌐 **Web Development** | Web applications using **Flask**, **Streamlit**, and **HTML/CSS** for dashboards and user interfaces. |
+| 💾 **SQL & Database Management** | SQL queries, CRUD operations, and database integration with Python using **MySQL**. |
 
-| 🧠 **IDE / Compiler** | 💡 **Description**                         | 🔗 **Link** |
-| --------------------- | ----------------------------------------- | ----------- |
-| 🪶 **Thonny**         | Beginner-friendly Python IDE (libraries: `math`, `os`, `json`) | [thonny.org](https://thonny.org/) |
-| 🧩 **PyCharm**        | Advanced Python IDE for professional use (libraries: `pandas`, `numpy`, `matplotlib`) | [jetbrains.com/pycharm](https://www.jetbrains.com/pycharm/) |
-| 💻 **VS Code**        | Lightweight editor with Python extensions (libraries: `streamlit`, `threading`, `flask`, `altair`) | [code.visualstudio.com](https://code.visualstudio.com/) |
-|
+---
 
+## 🧰 Tools I Use
 
-/------------------------------------------------------------------------------------------------------------------------------------------/
+I practice and run Python programs using the following IDEs and compilers provided by my college:
 
-# 🐍 30 Days of Python,Web Projects & DSA with Python.
+| 🧠 IDE / Tool | 💡 Description | 🔗 Link |
+|---------------|----------------|---------|
+| 🪶 **Thonny** | Beginner-friendly Python IDE (libraries: `math`, `os`, `json`) | [thonny.org](https://thonny.org) |
+| 🧩 **PyCharm** | Advanced Python IDE for professional use (libraries: `pandas`, `numpy`, `matplotlib`) | [jetbrains.com/pycharm](https://www.jetbrains.com/pycharm) |
+| 💻 **VS Code** | Lightweight editor with Python extensions (libraries: `streamlit`, `threading`, `flask`, `altair`) | [code.visualstudio.com](https://code.visualstudio.com) |
+| 🧮 **MySQL Workbench** | SQL IDE for designing and managing databases used with Python CRUD programs | [dev.mysql.com/workbench](https://dev.mysql.com/workbench/) |
 
-📅 **Day 1 – Calculator**
-🧮 Created a simple calculator using `if-else` and `while` loop.
+---
 
-🎯 **Day 2 – Guess Number & Chatbot**
-🤔 Guess the number game.
-💬 Simple chatbot that replies to user input.
+## 📅 30 Days of Python, Web Projects & DSA
 
-🧩 **Day 3 – Passcode, BMI & Student Dictionary**
-🔐 Passcode verification program.
-⚖️ BMI calculator using height and weight.
-📚 Student details stored using dictionary.
+### 🧮 **Day 1 – Calculator**
+Created a simple calculator using `if-else` and `while` loops.
 
-🧑‍🎓 **Day 4 – Student Rank & Table (OOP)**
-🏆 Calculated student ranks using OOP.
-📊 Displayed student data in table format.
+---
 
-🏦 **Day 5 – Bank Statement Web App**
-💻 Created a simple bank statement webpage using Streamlit.
+### 🤖 **Day 2 – Guess Number & Chatbot**
+- 🎯 Guess the number game.  
+- 💬 Simple chatbot that replies to user input.
 
-💳 **Day 6 – ATM Simulation (3 Ways)**
-🏧 ATM process done using
-1️⃣ Python OOP
-2️⃣ Flask
-3️⃣ Streamlit
+---
 
-🚗 **Day 7 – Car Details Web App**
-🚙 Displayed car and bike details using multiple inheritance in Streamlit.
+### 🧩 **Day 3 – Passcode, BMI & Student Dictionary**
+- 🔐 Passcode verification program.  
+- ⚖️ BMI calculator using height and weight.  
+- 📚 Student details stored using Python dictionary.
 
-📁 **Day 8 – Bank Management System (File Handling)**
-💾 Created a console-based Bank Management System using Python file handling.
-📚 Implemented JSON storage to save, update, and delete account details.
-⚙️ Features include:
-   Add new account
-   View all accounts
-   Update existing details
-   Delete account safely
-   ✅ Focused on exception handling and persistent data management.
-   
-🏥 **Day 9 – Hospital Monitoring System (Multithreading & Streamlit Dashboard)**
-    🩺 Sensor Data Reading – Continuously generates live vitals like heart rate, temperature, and oxygen.
-    🧠 Doctor Notification System – Detects abnormal readings and triggers alerts in real-time.
-    💾 Data Logging – Records recent health data for monitoring and trend analysis.
+---
+
+### 🧑‍🎓 **Day 4 – Student Rank & Table (OOP)**
+- 🏆 Calculated student ranks using Object-Oriented Programming.  
+- 📊 Displayed student data in a formatted table.
+
+---
+
+### 🏦 **Day 5 – Bank Statement Web App**
+💻 Created a **Streamlit-based web app** to view and analyze bank statements interactively.
+
+---
+
+### 💳 **Day 6 – ATM Simulation (3 Ways)**
+🏧 Simulated ATM operations using:
+1. 🧱 Python OOP  
+2. 🌐 Flask Web App  
+3. 🚀 Streamlit Dashboard  
+
+---
+
+### 🚗 **Day 7 – Car Details Web App**
+🚙 Displayed car and bike details using **Multiple Inheritance** in Streamlit.
+
+---
+
+### 📁 **Day 8 – Bank Management System (File Handling)**
+💾 Created a **console-based Bank Management System** using:
+- Python **file handling**
+- **JSON storage** for persistent data  
+✅ Features:
+- Add new account  
+- View all accounts  
+- Update existing details  
+- Delete account safely  
+⚙️ Focused on **exception handling** and **data persistence**
+
+---
+
+### 🏥 **Day 9 – Hospital Monitoring System (Multithreading & Streamlit Dashboard)**
+🩺 Built a live hospital monitoring system featuring:
+- **Sensor Data Reading** – Generates live vitals like heart rate, temperature, and oxygen.  
+- **Doctor Notification System** – Detects abnormal readings and triggers real-time alerts.  
+- **Data Logging** – Records recent health data for trend analysis.
+
+---
+
+## 🧮 SQL + Python Integration Project
+
+### 🎓 **Student Management System (Python + MySQL)**
+📘 A CRUD (Create, Read, Update, Delete) project built using **Python** and **MySQL Workbench**.
+
+#### 🧱 Features
+- Add new students  
+- View all students  
+- Update existing student details  
+- Delete one or all students  
+
+#### ⚙️ Files
+- `students.py` → Python CRUD program  
+- `students.sql` → SQL file for database and table creation  
+
+#### 💾 SQL Setup (included in `students.sql`)
+```sql
+CREATE DATABASE IF NOT EXISTS schooldb;
+USE schooldb;
+
+CREATE TABLE students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    average FLOAT NOT NULL,
+    grade VARCHAR(2) NOT NULL
+);
+
