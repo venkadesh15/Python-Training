@@ -93,8 +93,8 @@ Created a simple calculator using `if-else` and `while` loops.
 - **Data Logging** – Records recent health data for trend analysis.
 
 ---
-### 🧮 Day 10 – Python MySQL Student Management System
+### 🧮 **Day 10 – Python MySQL Student Management System**
 
-💾 Built a CRUD-based student management system using **Python** and **MySQL Workbench**.  
-⚙️ Performed operations like add, view, update, and delete student records using `mysql.connector` and SQL queries.
+💾 Built a CRUD-based Student Management System using **Python** and **MySQL** Workbench.
+⚙️ Performed add, view, update, and delete operations using **mysql.connector** and **SQL queries**.
 ---
