@@ -96,7 +96,6 @@ Created a simple calculator using `if-else` and `while` loops.
 ### 🧮 **Day 10 – Python MySQL Student Management System**
 
 💾 Built a CRUD-based Student Management System using Python and MySQL Workbench.
-
 ⚙️ Performed add, view, update, and delete operations using mysql.connector and SQL queries.
 
 ---
