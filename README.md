@@ -99,7 +99,7 @@ Created a simple calculator using `if-else` and `while` loops.
 ⚙️ Performed add, view, update, and delete operations using mysql.connector and SQL queries.
 
 ---
-###🧮 **Day 11 – Python MySQL Bank & Hospital Management Systems**
+### 🧮 **Day 11 – Python MySQL Bank & Hospital Management Systems**
 
 💾 Developed Python applications with MySQL backend:
 **Bank Management System:** Supported account creation, viewing, updating, deletion, and withdrawals with PIN authentication.
