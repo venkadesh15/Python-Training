@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS bankdb;
+USE bankdb;
+
+CREATE TABLE IF NOT EXISTS accounts (
+    account_no BIGINT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    pin CHAR(4) NOT NULL,
+    age INT NOT NULL,
+    balance DECIMAL(12,2) NOT NULL
+);
