@@ -104,5 +104,8 @@ Created a simple calculator using `if-else` and `while` loops.
 💾 Developed Python applications with MySQL backend:
 **Bank Management System:** Supported account creation, viewing, updating, deletion, and withdrawals with PIN authentication.
 **Hospital Management System:** Enabled patient registration, record updates, department-wise appointments, and automated doctor scheduling with secure access.
+
 **Built a Hospital Appointment System using Streamlit and MySQL.**
 🩺 Supports patient registration, appointment booking, and doctor login with real-time database updates.
+
+---
